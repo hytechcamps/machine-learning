@@ -10,9 +10,6 @@ Welcome to the Machine Learning camp!
 
 ## Resources
 - [Machine Learning for Kids](https://machinelearningforkids.co.uk/)
-- [Artificial Intelligence in Popular Culture](https://tvtropes.org/pmwiki/pmwiki.php/Main/ArtificialIntelligence)
-- [History of AI](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)
-- [ELIZA](http://psych.fullerton.edu/mbirnbaum/psych101/Eliza.htm)
-- [SHRDLU](https://www.youtube.com/watch?v=bo4RvYJYOzI)
-- [Searle's Chinese Room Thought Experiment](https://plato.stanford.edu/entries/chinese-room/)
+- [Machine Learning Definitions](https://www.technologyreview.com/2018/11/17/103781/what-is-machine-learning-we-drew-you-another-flowchart/)
+- [Introduction to Machine Learning](https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0)
 - [MarI/O](https://www.youtube.com/watch?v=qv6UVOQ0F44)
