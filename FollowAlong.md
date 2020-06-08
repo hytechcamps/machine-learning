@@ -80,7 +80,7 @@ Add some code to make the character ask a question!
 1. Near the top of the page, click on the "Code" tab  
     ![](https://i.imgur.com/Uoa3BB1.png)
 1. From the "Events" category, click and drag a **when {green flag} clicked** block to the middle of the screen
-1. From the "Looks" category, click and drag a **switch costume to ...** block under the **when {green flag} clicked block
+1. From the "Looks" category, click and drag a **switch costume to ...** block under the **when {green flag} clicked** block
     - The blocks should snap together when connected
 1. In the **switch costume to ...** block, click the down triangle and make sure "neutral" is selected
 1. From the "Sensing" category, click and drag an **ask ... and wait** block under the **switch costume to...** block
@@ -94,12 +94,13 @@ The next step is to use the trained model to figure out how the character should
 
 1. From the "Control" category, click and drag an **if ... then** block under the **ask ... and wait** block
 1. From the "Operators" category, click and drag a pointy **... = ...** block _into_ the pointy space in the **if ... then** block
-1. From the special "Make me happy" ML4K category, click and drag a **recognize text ... (label)** block into one side of the **... = ...** block
+1. From the special "Make me happy" ML4K category, click and drag a **recognise text ... (label)** block into one side of the **... = ...** block
     - Make sure to click the left part of the block to be able to place it
-1. From the "Sensing" category, click and drag a rounded **answer** block into the round space in the **recognize text ... (label)** block
+1. From the "Sensing" category, click and drag a rounded **answer** block into the round space in the **recognise text ... (label)** block
 1. From the "Make me happy" category, click and drag a rounded **positive_things** block into the other side of the **... = ...** block
     - This **if ... then** block will now check whether the model recognizes the message as a positive thing
 1. From the "Looks" category, click and drag a **switch costume to ...** block into the **if ... then** block so it is sandwiched within it
+1. Click the dropdown on the **switch costume to ...** block to change the costume to "happy"
 1. Run the program by clicking the green flag, and make sure entering positive messages makes the character happy
 1. Below the existing **if ... then** block, add another **if ... then** block that will recognize negative answers
 1. Within the new **if ... then** block, use a **switch costume to ...** block to make the character sad
