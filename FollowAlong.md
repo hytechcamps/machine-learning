@@ -45,7 +45,7 @@ This type of learning is known as _supervised learning_ because the examples are
     ![](https://i.imgur.com/pQ11MaE.png)
 1. Wait a few minutes for the training to complete - feel free to answer the quiz questions during this time
 1. When the training is done, enter some messages and test them out - see how the computer does at recognizing the text!  
-    ![](https://i.imgur.com/VXCE8YA.png)
+    ![](https://i.imgur.com/sNxc2id.png)
 
 After testing the model, feel free to go back and add more examples to the "positive_things" and "negative_things" buckets. More data with more variation will make the model even better at recognizing the text! Try to add examples of different lengths, and make sure the total number of examples in the "positive_things" and "negative_things" buckets are about equal. After adding more examples, make sure to re-train the model.
 
