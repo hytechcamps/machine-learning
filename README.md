@@ -6,6 +6,10 @@ A workshop introducing [Machine Learning for Kids](https://machinelearningforkid
 ## Student Content
 Student-facing content is available at [hytechcamps.github.io](https://hytechcamps.github.io/machine-learning).
 
+## Videos
+- [Machine Learning Lecture](https://www.youtube.com/watch?v=V_ZyIPDtLuc&list=PL1P_sExxi-9NeogaTKc9lSzoUkqPuqHOT)
+- [Machine Learning Follow-Along](https://www.youtube.com/watch?v=f-G1qTerPqk&list=PL1P_sExxi-9NeogaTKc9lSzoUkqPuqHOT)
+
 ## Suggested Schedule (Virtual)
 
 | Activity | Time |
