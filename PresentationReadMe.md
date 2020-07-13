@@ -24,10 +24,10 @@ Ask the students if they recognize any of these.
 
 "The idea of artificial intelligence dates back to antiquity, where the concept was a storytelling device and a philosophical question. The list of modern depictions of AI goes on and on."
 
-## Slide 4-13
+#### Slide 4-13
 Hidden
 
-# Slide 14
+## Slide 14
 Ask the question on the slide to the students, allow them to discuss it. When giving this presentation virtually, encourage them to answer in the Zoom chat.
 
 ## Slide 15
