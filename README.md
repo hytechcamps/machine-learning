@@ -36,9 +36,9 @@ Start things off with a quick icebreaker activity so the students can get to kno
 
 1. Explain how [AutoDraw](https://www.autodraw.com/) uses machine learning to guess what the user is trying to draw
 1. Show how to get a link to the drawing: Hamburger menu in the upper left -> Share -> Copy Link -> Paste in Zoom chat  
-  - ![](https://i.imgur.com/zbckFUc.png)  
-  - ![](https://i.imgur.com/DVQ6p5o.png)
-  - ![](https://i.imgur.com/ACBa9nc.png)
+    - ![](https://i.imgur.com/zbckFUc.png)  
+    - ![](https://i.imgur.com/DVQ6p5o.png)  
+    - ![](https://i.imgur.com/ACBa9nc.png)  
 1. Post the link to AutoDraw in the Zoom chat (https://www.autodraw.com/)
 1. Give the students a few minutes to create drawings of their own
 1. Ask each student to post a link to their drawing in the Zoom chat
