@@ -1,5 +1,5 @@
 # AI with Machine Learning for Kids
-A workshop introducing [Machine Learning for Kids](https://machinelearningforkids.co.uk) in ~2hrs. Machine Learning for Kids introduces machine learning by providing hands-on experiences for training machine learning systems and building things with them.
+A workshop introducing [Machine Learning for Kids](https://machinelearningforkids.co.uk) in ~2zhrs. Machine Learning for Kids introduces machine learning by providing hands-on experiences for training machine learning systems and building things with them.
 
 - [Machine Learning for Kids Overview](https://www.youtube.com/watch?v=EjbHXMzeX4c)
 
@@ -32,7 +32,17 @@ Student-facing content is available at [hytechcamps.github.io](https://hytechcam
 | Challenges | 50m |
 
 ## Icebreaker
-Start things off with a quick icebreaker activity so the students can get to know each other. Have the students play with the [edges2cats](https://affinelayer.com/pixsrv/) tool to see what AI can do, then share their creations with the group. They can click the "Save" button and then add the image to chat (possibly a Campfire chat).
+Start things off with a quick icebreaker activity so the students can get to know each other.
+
+1. Explain how [AutoDraw](https://www.autodraw.com/) uses machine learning to guess what the user is trying to draw
+1. Show how to get a link to the drawing: Hamburger menu in the upper left -> Share -> Copy Link -> Paste in Zoom chat  
+  - ![](https://i.imgur.com/zbckFUc.png)  
+  - ![](https://i.imgur.com/DVQ6p5o.png)
+  - ![](https://i.imgur.com/ACBa9nc.png)
+1. Post the link to AutoDraw in the Zoom chat (https://www.autodraw.com/)
+1. Give the students a few minutes to create drawings of their own
+1. Ask each student to post a link to their drawing in the Zoom chat
+1. With screen shared, click on each link, and allow the students to introduce themselves
 
 ## Lecture
 The lecture uses a [PowerPoint presentation](MachineLearning.pptx) to introduce students to machine learning. It introduces artificial intelligence and some of the concepts behind machine learning.
