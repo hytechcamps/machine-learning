@@ -15,10 +15,10 @@ Student-facing content is available at [hytechcamps.github.io](https://hytechcam
 | Activity | Time |
 |-|-|
 | Icebreaker | 15m |
-| Lecture | 10m |
+| Lecture | 15m |
 | Kahoot | 5m |
 | Follow-Along | 45m |
-| Challenges | 15m |
+| Challenges | 10m |
 
 ## Suggested Schedule
 
