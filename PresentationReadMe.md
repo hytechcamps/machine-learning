@@ -1,12 +1,12 @@
 # Machine Learning Presentation Notes
 
-## Slide 1
+## Slide 1 (Machine Learning)
 Title - introduce topic
 
-## Slide 2
+## Slide 2 (Where have you seen robots?)
 Start by talking about A.I. more broadly. Ask the question on the slide to the students, allow them to discuss it. When giving this presentation virtually, encourage them to answer in the Zoom chat.
 
-## Slide 3
+## Slide 3 (Steven Spielberg A.I. + Examples)
 >Animation: Click once to trigger the appearance of all examples.
 
 The examples in this slide, counter clockwise from top left:
@@ -27,10 +27,10 @@ Ask the students if they recognize any of these.
 #### Slide 4-13
 Hidden
 
-## Slide 14
+## Slide 14 (Do you know how artificial intelligence?)
 Ask the question on the slide to the students, allow them to discuss it. When giving this presentation virtually, encourage them to answer in the Zoom chat.
 
-## Slide 15
+## Slide 15 (Real World A.I.)
 >Animations: Click to trigger each individual example.
 
 "There are several real-world applications of artificial intelligence! Although some of these things were originally science fiction, at this point, artificial intelligence is indeed science. Examples include:
@@ -43,12 +43,12 @@ Ask the question on the slide to the students, allow them to discuss it. When gi
 - Video games characters like the ghosts from Pac Man
 - Automated online assistant chat bots"
 
-## Slide 16
+## Slide 16 (Machine Learning intro slide)
 "One interesting subset of artificial intelligence is Machine Learning."
 
 Ask the students if they can guess what machine learning is.
 
-## Slide 17
+## Slide 17 (What do machine learning algorithms do?)
 >Animation: There are six total animations on this slide, as indicated below with `click`.
 
 First, ask the question to the students. `click`
@@ -61,7 +61,7 @@ Explain that machine learning algorithms take in a bunch of data, and then find 
 
 _Important to mention for the Kahoot_: "In the real world, machine learning algorithms are useful when the rules of a problem are unknown. Tasks that involve following rules which can be worked out are not a good use for machine learning. For example, it would not make sense to use a machine learning approach to calculate the tax on a restaurant bill; no learning is necessary for that."
 
-## Slide 18
+## Slide 18 (How are machine learning models built?)
 >Animation: Each of the three steps in the process is animated, as indicated below with `click`.
 
 First, ask the question to the students. `click`
@@ -78,7 +78,7 @@ Emphasize the importance of data collection and preparation – this is often th
 
 "After these steps, the machine learning model should be ready for application!"
 
-## Slide 19
+## Slide 19 (Should datasets be varied?)
 >Animation: There are seven total animations on this slide, as indicated below with `click`.
 
 Ask the students if they think data should be varied or not. `click` It should be varied!
@@ -91,7 +91,7 @@ Ask the students if they think data should be varied or not. `click` It should b
 
 "Ultimately, machine learning algorithms are only as good as the data they are given. If the data collector or preparer has some bias, that will be present in the machine learning model. It is always important to consider these factors when providing data to an algorithm."
 
-## Slide 20
+## Slide 20 (Approaches)
 >Animation: Each of the three approaches listed is animated.
 
 Go over three of the approaches to machine learning. The important things to emphasize are:
@@ -100,7 +100,7 @@ Go over three of the approaches to machine learning. The important things to emp
 - Unsupervised Learning: Unlabeled Data
 - Reinforcement Learning: Positive and Negative Feedback
 
-## Slide 21
+## Slide 21 (A supervised example)
 >Animation: There are eight total animations on this slide, as indicated below with `click`.
 
 "A spam filter is given a bunch of training data of e-mails that have been labeled SPAM or NOT SPAM." `click` `click` `click` `click`
@@ -115,5 +115,5 @@ Ask the students if they can find the pattern. `click`
 
 "It's NOT SPAM because it comes from a **.com** e-mail address and contains no misspellings. This is a very simplified example, but it shows how a machine learning model can learn to recognize things based on relevant features!"
 
-## Slide 22
+## Slide 22 (Questions?)
 Ask the students if they have any questions.
