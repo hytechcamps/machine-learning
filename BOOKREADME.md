@@ -1,5 +1,5 @@
 # AI with Machine Learning for Kids
-Welcome to the Machine Learning camp!
+Welcome to the Machine Learning camp! This workshop introduces machine learning using Machine Learning for Kids.
 
 ## Camp Material
 - <a href="MachineLearning.pptx" target="_blank">Machine Learning PowerPoint Presentation</a>
