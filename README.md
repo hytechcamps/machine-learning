@@ -3,6 +3,9 @@ A workshop introducing [Machine Learning for Kids](https://machinelearningforkid
 
 - [Machine Learning for Kids Overview](https://www.youtube.com/watch?v=EjbHXMzeX4c)
 
+### Camp Description
+In this camp, students will use Machine Learning For Kids to create artificially intelligent programs. Students will learn the basics of Machine Learning, and then apply that knowledge to train a computer to recognize different types of data. They will also use programming to create a game with the computer's artificial intelligence.
+
 ## Student Content
 Student-facing content is available at [hytechcamps.github.io](https://hytechcamps.github.io/machine-learning).
 
