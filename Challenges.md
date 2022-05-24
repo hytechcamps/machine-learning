@@ -69,7 +69,7 @@ It is also possible to use these confidence intervals within the Scratch applica
 ### Updating the Scratch Application with Confidence
 
 1. Go into the Scratch project (_make sure not to close out the Machine Learning For Kids project_)
-1. Drag the blocks under the **ask** block away from the script; keep them elsewhere for later 
+1. Drag the blocks under the **ask** block away from the script; keep them elsewhere for later  
     ![](Assets/Challenges/whats_up_code.png)
 1. From the "Control" category, click and drag an **if ... then ... else** block under the **ask** block  
     ![](Assets/Challenges/if_else.png)
