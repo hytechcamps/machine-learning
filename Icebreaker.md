@@ -5,7 +5,7 @@ For this icebreaker activity, draw a picture using artificial intelligence!
 Follow these steps to start drawing.
 
 1. Go to AutoDraw: [https://www.autodraw.com/](https://www.autodraw.com/)
-    - If there is a canvas with a drawing, click the hamburger menu in the upper left and select "Start over"
+    - If there is a canvas with a drawing, click the hamburger menu in the upper left and select one of the blank canvases under "Start over"
     - If there is no canvas, click the "Start Drawing" button
 1. With the "AutoDraw" pencil selected, start drawing something
 1. The A.I. should start to guess the drawing - check the top bar for suggestions!
