@@ -34,6 +34,8 @@
 
     
         
+        <link rel="stylesheet" href="styles/website.css">
+        
     
         
     
@@ -199,7 +201,7 @@
 </ol>
 <h2 id="challenge-2-a-reply">Challenge 2: A Reply</h2>
 <p>Instead of simply changing costumes, the character should also say something depending on the message! Use the <strong>say ...</strong> block from the &quot;Looks&quot; category to accomplish this:</p>
-<p><img src="https://i.imgur.com/mhVaHj4.png" alt=""></p>
+<p><img src="Assets/Challenges/reply.png" alt=""></p>
 <p>Place one <strong>say ...</strong> block under the &quot;happy&quot; costume switch block, still within the <strong>if</strong> block. Change the message to make it a proper reply to something positive, like &quot;That makes me happy!&quot; Place another <strong>say ...</strong> block under the &quot;sad&quot; costume switch block, and change the message so it expresses sadness.</p>
 <p>Now, when the character hears a message, it should change the costume <em>and</em> say something in reply!</p>
 <h2 id="challenge-3-a-new-bucket">Challenge 3: A New Bucket</h2>
@@ -230,7 +232,7 @@
 <li>Update the new <strong>if</strong> block so that it so it recognizes the new label and switches to the new costume</li>
 </ol>
 <p>The code should look something like this:</p>
-<p><img src="https://i.imgur.com/gT9u7JX.png" alt=""></p>
+<p><img src="Assets/Challenges/new_label_if.png" alt=""></p>
 <p>Test out the new program to see if the character reacts appropriately!</p>
 <h2 id="challenge-4-working-with-confidence-intervals">Challenge 4: Working with Confidence Intervals</h2>
 <blockquote>
@@ -239,24 +241,24 @@ Resource: <a href="https://developers.google.com/machine-learning/crash-course/c
 </blockquote>
 <p>In machine learning, there is always a degree of uncertainty about a model&apos;s predictions. Sometimes there is very little uncertainty, and sometimes there is a lot of uncertainty. <strong>Confidence intervals</strong> allow developers to measure this uncertainty and act accordingly.</p>
 <p>These confidence intervals may look familiar; they are used in the testing phase of Machine Learning for Kids models!</p>
-<p><img src="https://i.imgur.com/yh5boDt.png" alt=""></p>
+<p><img src="Assets/Challenges/confidence_test.png" alt=""></p>
 <p>It is also possible to use these confidence intervals within the Scratch application.</p>
 <h3 id="updating-the-scratch-application-with-confidence">Updating the Scratch Application with Confidence</h3>
 <ol>
 <li>Go into the Scratch project (<em>make sure not to close out the Machine Learning For Kids project</em>)</li>
 <li>Drag the blocks under the <strong>ask</strong> block away from the script; keep them elsewhere for later 
- <img src="https://i.imgur.com/L2sAmRr.png" alt=""></li>
-<li>From the &quot;Control&quot; category, click and drag an <strong>if ... then ... else</strong> block under the <strong>ask</strong> block<br> <img src="https://i.imgur.com/GtUwxWR.png" alt=""></li>
-<li>Drag the old code into the <strong>else</strong> section of the <strong>if ... then ... else</strong> block<br> <img src="https://i.imgur.com/XWigg8n.png" alt=""></li>
-<li>From the &quot;Operators&quot; category, click and drag a pointy <strong>... &lt; ...</strong> block into the pointy space in the <strong>if</strong> block<br> <img src="https://i.imgur.com/ct7EM6I.png" alt=""></li>
-<li>From the &quot;Make me happy&quot; category, click and drag a rounded <strong>recognize text ... (confidence)</strong> block into the rounded space on the left of the <strong>... &lt; ...</strong> block<br> <img src="https://i.imgur.com/PTWFbZH.png" alt=""></li>
-<li>From the &quot;Sensing&quot; category, click and drag a rounded <strong>answer</strong> block into the rounded &quot;text&quot; space in the <strong>recognize text ... (confidence)</strong> block<br> <img src="https://i.imgur.com/mC1AsPj.png" alt=""></li>
+ <img src="Assets/Challenges/whats_up_code.png" alt=""></li>
+<li>From the &quot;Control&quot; category, click and drag an <strong>if ... then ... else</strong> block under the <strong>ask</strong> block<br> <img src="Assets/Challenges/if_else.png" alt=""></li>
+<li>Drag the old code into the <strong>else</strong> section of the <strong>if ... then ... else</strong> block<br> <img src="Assets/Challenges/else_old_code.png" alt=""></li>
+<li>From the &quot;Operators&quot; category, click and drag a pointy <strong>... &lt; ...</strong> block into the pointy space in the <strong>if</strong> block<br> <img src="Assets/Challenges/pointy_operator.png" alt=""></li>
+<li>From the &quot;Make me happy&quot; category, click and drag a rounded <strong>recognize text ... (confidence)</strong> block into the rounded space on the left of the <strong>... &lt; ...</strong> block<br> <img src="Assets/Challenges/recognize_confidence.png" alt=""></li>
+<li>From the &quot;Sensing&quot; category, click and drag a rounded <strong>answer</strong> block into the rounded &quot;text&quot; space in the <strong>recognize text ... (confidence)</strong> block<br> <img src="Assets/Challenges/answer.png" alt=""></li>
 <li>Set the &quot;50&quot; in the <strong>... &lt; ...</strong> block to be any desired confidence interval<ul>
 <li>For example, if it were 70, the model would be &quot;not sure&quot; if its confidence interval was 70 or lower</li>
 </ul>
 </li>
 <li>From the &quot;Looks&quot; category, click and drag a <strong>say ...</strong> block into the top <strong>if</strong> block</li>
-<li>Update the text in the new <strong>say ...</strong> block to say that the character is not sure how to feel<br> <img src="https://i.imgur.com/ruaLsXl.png" alt=""></li>
+<li>Update the text in the new <strong>say ...</strong> block to say that the character is not sure how to feel<br> <img src="Assets/Challenges/say_not_sure.png" alt=""></li>
 <li>Run the program to test how it works!</li>
 </ol>
 <p>Go back and adjust the confidence interval in the code if necessary. </p>
@@ -310,7 +312,7 @@ Resource: <a href="https://developers.google.com/machine-learning/crash-course/c
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Challenges","level":"1.4","depth":1,"previous":{"title":"Follow-Along Activity","level":"1.3","depth":1,"path":"FollowAlong.md","ref":"FollowAlong.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Challenges.md","mtime":"2022-05-24T12:41:46.662Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2022-05-24T12:42:16.994Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Challenges","level":"1.4","depth":1,"previous":{"title":"Follow-Along Activity","level":"1.3","depth":1,"path":"FollowAlong.md","ref":"FollowAlong.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Challenges.md","mtime":"2022-05-24T13:38:24.526Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2022-05-24T13:38:56.199Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>

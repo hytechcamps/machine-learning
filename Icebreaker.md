@@ -20,11 +20,11 @@ Feel free to create anything you'd like!
 When you're ready to share, follow these steps.
 
 1. Click the Hamburger menu in the upper left  
-    ![](Assets/autodraw_hamburger.png)
+    ![](Assets/Icebreaker/hamburger.png)
 1. Select the "Share" option  
-    ![](Assets/autodraw_share.png)
+    ![](Assets/Icebreaker/share.png)
 1. Click the "Copy Link" button  
-    ![](Assets/autodraw_copylink.png)
+    ![](Assets/Icebreaker/copy_link.png)
 1. Open the submission form: [https://forms.gle/3fD69RyN92hq6GBHA](https://forms.gle/3fD69RyN92hq6GBHA)
 1. On the form, select your room, enter your name, and paste in your link with **Ctrl**+**v** or right click -> "Paste"
 1. Submit the form to send your drawing!

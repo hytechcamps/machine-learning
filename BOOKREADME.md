@@ -15,7 +15,6 @@ Welcome to the Machine Learning camp! This workshop introduces machine learning 
 
 ## Resources
 - [Machine Learning for Kids](https://machinelearningforkids.co.uk/)
-- [Machine Learning Definitions](https://www.technologyreview.com/2018/11/17/103781/what-is-machine-learning-we-drew-you-another-flowchart/)
 - [Introduction to Machine Learning](https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0)
 
 ## MarI/O
