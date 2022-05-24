@@ -55,8 +55,8 @@ The code should look something like this:
 Test out the new program to see if the character reacts appropriately!
 
 ## Challenge 4: Working with Confidence Intervals
->Resource: https://machinelearningmastery.com/report-classifier-performance-confidence-intervals/
->Resource: https://developers.google.com/machine-learning/crash-course/classification/thresholding
+>Resource: [https://machinelearningmastery.com/report-classifier-performance-confidence-intervals/](https://machinelearningmastery.com/report-classifier-performance-confidence-intervals/)
+>Resource: [https://developers.google.com/machine-learning/crash-course/classification/thresholding](https://developers.google.com/machine-learning/crash-course/classification/thresholding)
 
 In machine learning, there is always a degree of uncertainty about a model's predictions. Sometimes there is very little uncertainty, and sometimes there is a lot of uncertainty. **Confidence intervals** allow developers to measure this uncertainty and act accordingly.
 
