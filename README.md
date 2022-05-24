@@ -27,6 +27,8 @@ Start things off with a quick icebreaker activity so the students can get to kno
 ## Lecture
 The lecture uses a [PowerPoint presentation](MachineLearning.pptx) to introduce students to machine learning. It introduces artificial intelligence and some of the concepts behind machine learning.
 
+>_There are notes for the presentation [here](PresentationReadMe.md)._
+
 ## Kahoot Quiz
 There is a quick [Kahoot quiz](https://create.kahoot.it/share/8d6399d8-3979-45ad-bae5-52824765632f) to gauge how well the students were paying attention during the lecture.
 

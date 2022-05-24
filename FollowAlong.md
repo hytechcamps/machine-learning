@@ -4,21 +4,19 @@ The goal of this activity is to build a simple Scratch program that can tell if 
 >This is an adaptation of the ["Make me happy" worksheet](https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-makemehappy-easy.pdf) from _Machine Learning For Kids_.
 
 ## Part 1: Creating a _Machine Learning For Kids_ Project
-The first step is to create a new project using _Machine Learning For Kids_. _Machine Learning For Kids_ is a web-based educational tool that allows students to train machine learning models and build applications that use those models.
-
-Machine Learning For Kids is a browser-based tool that lets anyone create machine learning models and use them in code. It provides a user-friendly interface, so developers do not need to know what happens behind the scenes.
+The first step is to create a new project using _Machine Learning For Kids_. _Machine Learning For Kids_ is a web-based educational tool that allows students to train machine learning models and build applications that use those models. It provides a user-friendly interface, so developers do not need to know what happens behind the scenes.
 
 1. Open a web browser and go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk)
 1. Click on the "Get started" button  
-    ![](https://i.imgur.com/Y2GSpoV.png)
+    ![](Assets/FollowAlongML4K/get_started.png)
 1. Click on the "Try it now" button  
-    ![](https://i.imgur.com/94H0W3g.png)
+    ![](Assets/FollowAlongML4K/try_it_now.png)
 1. Click on the "**+** Add a new project" button  
-    ![](https://i.imgur.com/EWZnJUj.png)
+    ![](Assets/FollowAlongML4K/add_new_project.png)
 1. Fill out a name for the project: "Make me happy"
 1. Click the "Recognising" dropdown and select "text"
 1. Click the "Create" button  
-    ![](https://i.imgur.com/E3HJKCD.png)
+    ![](Assets/FollowAlongML4K/create.png)
 1. Check to make sure the project now appears in the list!  
 
 ## Part 2: Training a New Machine Learning Model
@@ -27,25 +25,25 @@ The next step is to create an actual machine learning model. This model will rec
 This type of learning is known as _supervised learning_ because the examples are labeled. The computer will learn from patterns in these examples, like word choice, sentence structure, and more.
 
 1. Click on the new "Make me happy" project from the list  
-    ![](https://i.imgur.com/YjZkZdj.png)
+    ![](Assets/FollowAlongML4K/project_list.png)
 1. Click on the "Train" button  
-    ![](https://i.imgur.com/RJNIXrQ.png)
+    ![](Assets/FollowAlongML4K/train_button.png)
 1. Click on the "**+** Add a new label" button  
-    ![](https://i.imgur.com/C7N2VoM.png)
+    ![](Assets/FollowAlongML4K/add_new_label.png)
 1. Enter "positive things" and click the "Add" button to create a "positive_things" bucket
 1. Repeat the steps above to create a "negative_things" bucket as well
-1. Use the "**+** Add example" button in the "positive_things" bucket to add at least _six_ positive things  
-    ![](https://i.imgur.com/ExqpBWQ.png)
-1. Similarly, use the "**+** Add example" button in the "negative_things" bucket to add at least six _negative_ things
+1. Use the "**+** Add example" button in the "positive_things" bucket to add at least **six** positive things  
+    ![](Assets/FollowAlongML4K/positive_add.png)
+1. Similarly, use the "**+** Add example" button in the "negative_things" bucket to add at least six **negative** things
 1. Once each bucket is full, click the "< Back to project" link in the upper left to go back to the main project page  
-    ![](https://i.imgur.com/6sn41U7.png)
+    ![](Assets/FollowAlongML4K/back_to_project.png)
 1. On the main project page, click on the "Learn & Test" button  
-    ![](https://i.imgur.com/aJuQkgs.png)
+    ![](Assets/FollowAlongML4K/learn_and_test_button.png)
 1. On the models page, click the "Train new machine learning model" button  
-    ![](https://i.imgur.com/pQ11MaE.png)
+    ![](Assets/FollowAlongML4K/train_new_model.png)
 1. Wait a few minutes for the training to complete - feel free to answer the quiz questions during this time
 1. When the training is done, enter some messages and test them out - see how the computer does at recognizing the text!  
-    ![](https://i.imgur.com/sNxc2id.png)
+    ![](Assets/FollowAlongML4K/message_tests)
 
 After testing the model, feel free to go back and add more examples to the "positive_things" and "negative_things" buckets. More data with more variation will make the model even better at recognizing the text! Try to add examples of different lengths, and make sure the total number of examples in the "positive_things" and "negative_things" buckets are about equal. After adding more examples, make sure to re-train the model.
 
@@ -57,28 +55,28 @@ First, get into Scratch and create a character for the application.
 
 1. Click the "< Back to Project" link to go back to the main project page
 1. From there, click the "Make" button  
-    ![](https://i.imgur.com/6xXSN7f.png)
+    ![](Assets/FollowAlongScratch/make_button.png)
 1. Click the "Scratch 3" button to see the Scratch 3 instructions
 1. Click the "Open in Scratch 3" button to open Scratch with the machine learning model blocks  
-    ![](https://i.imgur.com/d5qi7rj.png)
+    ![](Assets/FollowAlongScratch/open_in_scratch3.png)
 1. In the Sprites area on the bottom right side, click the trash can icon to delete the cat sprite  
-    ![](https://i.imgur.com/kyFJi89.png)
+    ![](Assets/FollowAlongScratch/trash_cat.png)
 1. From the Sprites area, hover over the new sprite icon and select the paintbrush to paint a new sprite  
-    ![](https://i.imgur.com/Dn32UcK.png)
+    ![](Assets/FollowAlongScratch/paintbrush.png)
 1. Draw a character appearing neutral (not happy or sad), and name the costume "neutral"  
-    ![](https://i.imgur.com/jbNpqBt.png)
+    ![](Assets/FollowAlongScratch/neutral_costume.png)
 1. On the left side of the screen, right click the "neutral" costume and select "duplicate"  
-    ![](https://i.imgur.com/wWu9XYM.png)
+    ![](Assets/FollowAlongScratch/duplicate.png)
 1. Adjust the character's drawing so they are happy, and rename the duplicated costume to "happy"
 1. Duplicate the original costume again, and make a "sad" costume  
 
-![](https://i.imgur.com/emgC9ix.png)
+![](Assets/FollowAlongScratch/three_costumes.png)
 
 ### Adding Intro Code
 Add some code to make the character ask a question!
 
 1. Near the top of the page, click on the "Code" tab  
-    ![](https://i.imgur.com/Uoa3BB1.png)
+    ![](Assets/FollowAlongScratch/code_tab.png)
 1. From the "Events" category, click and drag a **when {green flag} clicked** block to the middle of the screen
 1. From the "Looks" category, click and drag a **switch costume to ...** block under the **when {green flag} clicked** block
     - The blocks should snap together when connected
@@ -87,7 +85,7 @@ Add some code to make the character ask a question!
 1. In the **ask ... and wait** block, change the question text to say "What's up?"
 1. Run the program by clicking the green flag above the stage on the right, and see how it asks the question
 
-![](https://i.imgur.com/Bsx2g3E.png)
+![](Assets/FollowAlongScratch/whats_up_code.png)
 
 ### Using the Machine Learning Model
 The next step is to use the trained model to figure out how the character should react to the message. If the model recognizes the text as positive, the character should switch to the happy costume. Otherwise, if the model recognizes the text as negative, the character should switch to the sad costume.
@@ -106,9 +104,9 @@ The next step is to use the trained model to figure out how the character should
 1. Within the new **if ... then** block, use a **switch costume to ...** block to make the character sad
 1. Run the program again, and see what it is able to recognize as positive or negative messages!
 
-![](https://i.imgur.com/ArEby0d.png)
+![](Assets/FollowAlongScratch/all_code.png)
 
 ## Saving the Scratch Project
 On the top bar of the Scratch site, on the left side, select "File" -> "Save to your computer" to save the project!
 
-![](https://i.imgur.com/osKlRdN.png)
+![](Assets/FollowAlongScratch/save_scratch.png)

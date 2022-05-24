@@ -1,4 +1,5 @@
 # Machine Learning Presentation Notes
+Here are notes for each slide of the [Machine Learning PowerPoint Presentation](MachineLearning.pptx).
 
 ## Slide 1 (Machine Learning)
 Title - introduce topic
