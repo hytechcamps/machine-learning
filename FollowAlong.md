@@ -33,16 +33,18 @@ This type of learning is known as _supervised learning_ because the examples are
 1. Enter "5 star reviews" and click the "Add" button to create a "5_star_reviews" bucket
 1. Repeat the steps above to create a "1 star reviews" bucket as well
 1. Use the "**+** Add example" button in the "5_star_reviews" bucket to add at least **six** 5 star Oreo reviews  
+    - [Copy and Paste 5 star reviews from here](https://www.amazon.com/Double-Chocolate-Sandwich-Cookies-Resealable/product-reviews/B078PH27HZ/ref=cm_cr_unknown?ie=UTF8&reviewerType=all_reviews&filterByStar=five_star&pageNumber=1)  
     ![](Assets/FollowAlongML4K/5_star_add.png)
-2. Similarly, use the "**+** Add example" button in the "1_star_review" bucket to add at least six **1 star Oreo** reviews
-3. Once each bucket is full, click the "< Back to project" link in the upper left to go back to the main project page  
+1. Similarly, use the "**+** Add example" button in the "1_star_review" bucket to add at least six **1 star Oreo** reviews  
+    - [Copy and Paste 1 star reviews from here](https://www.amazon.com/Double-Chocolate-Sandwich-Cookies-Resealable/product-reviews/B078PH27HZ/ref=cm_cr_unknown?ie=UTF8&reviewerType=all_reviews&filterByStar=one_star&pageNumber=1)  
+1. Once each bucket is full, click the "< Back to project" link in the upper left to go back to the main project page  
     ![](Assets/FollowAlongML4K/new_back_to_project.png)
-4. On the main project page, click on the "Learn & Test" button  
+1. On the main project page, click on the "Learn & Test" button  
     ![](Assets/FollowAlongML4K/learn_and_test_button.png)
-5. On the models page, click the "Train new machine learning model" button  
+1. On the models page, click the "Train new machine learning model" button  
     ![](Assets/FollowAlongML4K/train_new_model.png)
-6. Wait a few minutes for the training to complete - feel free to answer the quiz questions during this time
-7. When the training is done, enter some other reviews from the Oreo page and test them out - see how the computer does at recognizing the text!  
+1. Wait a few minutes for the training to complete - feel free to answer the quiz questions during this time
+1. When the training is done, enter some other reviews from the [Oreo page](https://www.amazon.com/product-reviews/B078PH27HZ/) and test them out - see how the computer does at recognizing the text!  
     ![](Assets/FollowAlongML4K/message_tests)
 
 After testing the model, feel free to go back and add more examples to the "5_star_reviews" and "1_star_reviews" buckets. More data with more variation will make the model even better at recognizing the text! Try to add examples of different lengths, and make sure the total number of examples in the "5_star_reviews" and "1_star_reviews" buckets are about equal. After adding more examples, make sure to re-train the model.
