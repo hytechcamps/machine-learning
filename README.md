@@ -1,4 +1,4 @@
-# Programming Artificially Intelligent Apps with "Machine Learning for Kids"
+# Programming Artificially Intelligent Apps
 A workshop introducing [Machine Learning for Kids](https://machinelearningforkids.co.uk) in ~2hrs. Machine Learning for Kids introduces machine learning by providing hands-on experiences for training machine learning systems and building things with them.
 
 - [Machine Learning for Kids Overview](https://www.youtube.com/watch?v=EjbHXMzeX4c)
