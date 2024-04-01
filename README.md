@@ -1,10 +1,10 @@
-# AI with Machine Learning for Kids
+# Programming Artificially Intelligent Apps with "Machine Learning for Kids"
 A workshop introducing [Machine Learning for Kids](https://machinelearningforkids.co.uk) in ~2hrs. Machine Learning for Kids introduces machine learning by providing hands-on experiences for training machine learning systems and building things with them.
 
 - [Machine Learning for Kids Overview](https://www.youtube.com/watch?v=EjbHXMzeX4c)
 
-### Camp Description
-In this camp, students will use Machine Learning For Kids to create artificially intelligent programs. Students will learn the basics of Machine Learning, and then apply that knowledge to train a computer to recognize different types of data. They will also use programming to create a game with the computer's artificial intelligence.
+## Description
+In this workshop, students will explore the fundamental concepts of modern artificial intelligence, and then create an AI-enabled program of their own. They will use a platform called "Machine Learning for Kids" to train an AI model to recognize different types of data. They will also use programming to create an application based around this machine learning model. By the end of the workshop, they will have gained a basic understanding of modern AI, and each student will have a custom machine learning model and app of their own design.
 
 ### Student Content
 Student-facing content is available at [hytechcamps.github.io](https://hytechcamps.github.io/machine-learning).
