@@ -1,16 +1,16 @@
-# A.I. with Machine Learning for Kids
-Welcome to the Machine Learning camp! This workshop introduces machine learning using Machine Learning for Kids.
+# Programming Artificially Intelligent Apps
+Welcome to the A.I. Hy-Tech Camp!
 
-## Icebreaker
-[Click here for icebreaker instructions.](Icebreaker.md)
+## Icebreaker: AutoDraw
+[Click here to draw something with A.I.!](https://autodraw.com/)
 
-## Machine Learning PowerPoint Presentation
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hytechcamps.github.io/machine-learning/MachineLearning.pptx' width='100%' height='450px' frameborder='0'></iframe>
+### Submission
+[Click here to submit your drawing!](https://forms.office.com/r/zVdcwp9zBd)
 
 ## Follow-Along Activity
 [Click here for follow-along activity instructions.](FollowAlong.md)
 
-## Self-Paced Work
+## Challenges
 [Click here for challenge instructions.](Challenges.md)
 
 ## Resources
