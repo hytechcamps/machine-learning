@@ -1,3 +1,3 @@
-- [AutoDraw Icebreaker](Icebreaker.md)
+- [Programming A.I. Apps](BOOKREADME.md)
 - [Follow-Along Activity](FollowAlong.md)
 - [Challenges](Challenges.md)

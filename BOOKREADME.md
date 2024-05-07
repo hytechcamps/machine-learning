@@ -1,5 +1,5 @@
-# Programming Artificially Intelligent Apps
-Welcome to the A.I. Hy-Tech Camp!
+# Programming A.I. Apps
+Welcome to the Programming A.I. Apps Hy-Tech Camp!
 
 ## Icebreaker: AutoDraw
 [Click here to draw something with A.I.!](https://autodraw.com/)
