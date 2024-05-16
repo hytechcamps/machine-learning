@@ -62,7 +62,7 @@
     <link rel="next" href="Challenges.html" />
     
     
-    <link rel="prev" href="./" />
+    <link rel="prev" href="Icebreaker.html" />
     
 
     </head>
@@ -104,7 +104,20 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.2" data-path="FollowAlong.html">
+        <li class="chapter " data-level="1.2" data-path="Icebreaker.html">
+            
+                <a href="Icebreaker.html">
+            
+                    
+                    Icebreaker
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.3" data-path="FollowAlong.html">
             
                 <a href="FollowAlong.html">
             
@@ -117,7 +130,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3" data-path="Challenges.html">
+        <li class="chapter " data-level="1.4" data-path="Challenges.html">
             
                 <a href="Challenges.html">
             
@@ -175,7 +188,7 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="machine-learning-for-kids---simple-sentiment-analysis">Machine Learning For Kids - Simple Sentiment Analysis</h1>
+                                <h1 id="follow-along-activity-sentiment-analysis">Follow-Along Activity: Sentiment Analysis</h1>
 <p>The goal of this activity is to build a simple Scratch program that can tell if a review is 5 stars or 1 star. The character in the program will react happily if the review is 5 stars, and sadly if the review is 1 star. This will show how machine learning models are used to build applications. This involves collecting data, training the model, and finally, creating an application that uses the model.</p>
 <blockquote>
 <p>This is an adaptation of the <a href="https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-makemehappy-easy.pdf" target="_blank">&quot;Make me happy&quot; worksheet</a> from <em>Machine Learning For Kids</em>.</p>
@@ -188,21 +201,22 @@
 <li>Click on the &quot;Try it now&quot; button<br> <img src="Assets/FollowAlongML4K/try_it_now.png" alt=""></li>
 <li>Click on the &quot;<strong>+</strong> Add a new project&quot; button<br> <img src="Assets/FollowAlongML4K/add_new_project.png" alt=""></li>
 <li>Fill out a name for the project: &quot;Oreo Reviews&quot;</li>
-<li>Click the &quot;Recognising&quot; dropdown and select &quot;text&quot;</li>
-<li>Click the &quot;Create&quot; button<br> <img src="Assets/FollowAlongML4K/new_create.png" alt=""></li>
+<li>Click the &quot;Project Type&quot; dropdown and select &quot;recognising text&quot;</li>
+<li>Click the &quot;Storage&quot; dropdown and select &quot;In your web browser&quot;</li>
+<li>Click the &quot;Create&quot; button</li>
 <li>Check to make sure the project now appears in the list!  </li>
 </ol>
 <h2 id="part-2-training-a-new-machine-learning-model">Part 2: Training a New Machine Learning Model</h2>
 <p>The next step is to create an actual machine learning model. This model will recognize text as 5 stars or 1 star based on example data that is classified as such. We will be classifying <a href="https://www.amazon.com/Double-Chocolate-Sandwich-Cookies-Resealable/dp/B078PH27HZ/ref=sr_1_1_sspa?crid=X9W9FC0Q7XIO&amp;keywords=oreo&amp;qid=1657137939&amp;sprefix=oreo%2Caps%2C205&amp;sr=8-1-spons&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWUNRWEU1SDFXM1hQJmVuY3J5cHRlZElkPUEwMTk5NjI5MjlRSlJSTzc3TDEzJmVuY3J5cHRlZEFkSWQ9QTA1NjIwMzgyQzczSExBOUQzMFJKJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&amp;th=1" target="_blank">Oreo reviews</a> today!</p>
 <p>This type of learning is known as <em>supervised learning</em> because the examples are labeled. The computer will learn from patterns in these examples, like word choice, sentence structure, and more.</p>
 <ol>
-<li>Click on the new &quot;Oreo Reviews&quot; project from the list<br> <img src="Assets/FollowAlongML4K/new_project_list.png" alt=""></li>
+<li>Click on the new &quot;Oreo Reviews&quot; project from the list</li>
 <li>Click on the &quot;Train&quot; button<br> <img src="Assets/FollowAlongML4K/train_button.png" alt=""></li>
 <li>Click on the &quot;<strong>+</strong> Add a new label&quot; button<br> <img src="Assets/FollowAlongML4K/add_new_label.png" alt=""></li>
-<li>Enter &quot;5 star reviews&quot; and click the &quot;Add&quot; button to create a &quot;5_star_reviews&quot; bucket</li>
+<li>Enter &quot;5 star review&quot;s and click the &quot;Add&quot; button to create a &quot;5_star_reviews&quot; bucket</li>
 <li>Repeat the steps above to create a &quot;1 star reviews&quot; bucket as well</li>
 <li>Use the &quot;<strong>+</strong> Add example&quot; button in the &quot;5_star_reviews&quot; bucket to add at least <strong>six</strong> 5 star Oreo reviews  <ul>
-<li><a href="https://www.amazon.com/Double-Chocolate-Sandwich-Cookies-Resealable/product-reviews/B078PH27HZ/ref=cm_cr_unknown?ie=UTF8&amp;reviewerType=all_reviews&amp;filterByStar=five_star&amp;pageNumber=1" target="_blank">Copy and Paste 5 star reviews from here</a><br><img src="Assets/FollowAlongML4K/5_star_add.png" alt=""></li>
+<li><a href="https://www.amazon.com/Double-Chocolate-Sandwich-Cookies-Resealable/product-reviews/B078PH27HZ/ref=cm_cr_unknown?ie=UTF8&amp;reviewerType=all_reviews&amp;filterByStar=five_star&amp;pageNumber=1" target="_blank">Copy and Paste 5 star reviews from here</a></li>
 </ul>
 </li>
 <li>Similarly, use the &quot;<strong>+</strong> Add example&quot; button in the &quot;1_star_review&quot; bucket to add at least six <strong>1 star Oreo</strong> reviews  <ul>
@@ -213,7 +227,7 @@
 <li>On the main project page, click on the &quot;Learn &amp; Test&quot; button<br> <img src="Assets/FollowAlongML4K/learn_and_test_button.png" alt=""></li>
 <li>On the models page, click the &quot;Train new machine learning model&quot; button<br> <img src="Assets/FollowAlongML4K/train_new_model.png" alt=""></li>
 <li>Wait a few minutes for the training to complete - feel free to answer the quiz questions during this time</li>
-<li>When the training is done, enter some other reviews from the <a href="https://www.amazon.com/product-reviews/B078PH27HZ/" target="_blank">Oreo page</a> and test them out - see how the computer does at recognizing the text!<br> <img src="Assets/FollowAlongML4K/message_tests" alt=""></li>
+<li>When the training is done, enter some other reviews from the <a href="https://www.amazon.com/product-reviews/B078PH27HZ/" target="_blank">Oreo page</a> and test them out - see how the computer does at recognizing the text!</li>
 </ol>
 <p>After testing the model, feel free to go back and add more examples to the &quot;5_star_reviews&quot; and &quot;1_star_reviews&quot; buckets. More data with more variation will make the model even better at recognizing the text! Try to add examples of different lengths, and make sure the total number of examples in the &quot;5_star_reviews&quot; and &quot;1_star_reviews&quot; buckets are about equal. After adding more examples, make sure to re-train the model.</p>
 <h2 id="part-3-making-an-application-with-the-model">Part 3: Making an Application with the Model</h2>
@@ -300,7 +314,7 @@
 
             
                 
-                <a href="./" class="navigation navigation-prev " aria-label="Previous page: Programming A.I. Apps">
+                <a href="Icebreaker.html" class="navigation navigation-prev " aria-label="Previous page: Icebreaker">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
@@ -316,7 +330,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Follow-Along Activity","level":"1.2","depth":1,"next":{"title":"Challenges","level":"1.3","depth":1,"path":"Challenges.md","ref":"Challenges.md","articles":[]},"previous":{"title":"Programming A.I. Apps","level":"1.1","depth":1,"path":"BOOKREADME.md","ref":"BOOKREADME.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"FollowAlong.md","mtime":"2024-05-15T15:19:21.269Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2024-05-15T15:19:51.838Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Follow-Along Activity","level":"1.3","depth":1,"next":{"title":"Challenges","level":"1.4","depth":1,"path":"Challenges.md","ref":"Challenges.md","articles":[]},"previous":{"title":"Icebreaker","level":"1.2","depth":1,"path":"Icebreaker.md","ref":"Icebreaker.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"FollowAlong.md","mtime":"2024-05-16T13:35:39.228Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2024-05-16T13:36:07.931Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>

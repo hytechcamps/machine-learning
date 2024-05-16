@@ -1,3 +1,4 @@
 - [Programming A.I. Apps](BOOKREADME.md)
+- [Icebreaker](Icebreaker.md)
 - [Follow-Along Activity](FollowAlong.md)
 - [Challenges](Challenges.md)

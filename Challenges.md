@@ -1,4 +1,4 @@
-# Machine Learning For Kids - Challenges
+# Challenges
 Complete any of the challenges below!
 
 ## Challenge 1: More Data
@@ -55,8 +55,8 @@ The code should look something like this:
 Test out the new program to see if the character reacts appropriately!
 
 ## Challenge 4: Working with Confidence Intervals
->Resource: [https://machinelearningmastery.com/report-classifier-performance-confidence-intervals/](https://machinelearningmastery.com/report-classifier-performance-confidence-intervals/)
->Resource: [https://developers.google.com/machine-learning/crash-course/classification/thresholding](https://developers.google.com/machine-learning/crash-course/classification/thresholding)
+>Resource: [Confidence Intervals](https://machinelearningmastery.com/report-classifier-performance-confidence-intervals/)
+>Resource: [Thresholding](https://developers.google.com/machine-learning/crash-course/classification/thresholding)
 
 In machine learning, there is always a degree of uncertainty about a model's predictions. Sometimes there is very little uncertainty, and sometimes there is a lot of uncertainty. **Confidence intervals** allow developers to measure this uncertainty and act accordingly.
 
@@ -94,8 +94,12 @@ Go back and adjust the confidence interval in the code if necessary.
 There are [several worksheets](https://machinelearningforkids.co.uk/#!/worksheets) available online for the Machine Learning For Kids platform. Feel free to try any of them that look interesting!
 
 ### Beginner
+These worksheets are a little simpler:
+
 - [Shy Panda](https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-shypanda.pdf): Make a dancing panda that gets shy and stops dancing if it sees you looking.
 - [Car or Cup](https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-carorcup.pdf): Train the computer to be able to sort photos into groups.
 
 ### Intermediate
+This worksheet is a little more complex:
+
 - [Judge a Book](https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-judgeabook-easy.pdf): Create a model to recognize the genre of books based on their cover art.

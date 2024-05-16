@@ -1,4 +1,4 @@
-# Machine Learning For Kids - Simple Sentiment Analysis
+# Follow-Along Activity: Sentiment Analysis
 The goal of this activity is to build a simple Scratch program that can tell if a review is 5 stars or 1 star. The character in the program will react happily if the review is 5 stars, and sadly if the review is 1 star. This will show how machine learning models are used to build applications. This involves collecting data, training the model, and finally, creating an application that uses the model.
 
 >This is an adaptation of the ["Make me happy" worksheet](https://github.com/IBM/taxinomitis-docs/raw/master/project-worksheets/pdf/worksheet-makemehappy-easy.pdf) from _Machine Learning For Kids_.
@@ -14,9 +14,9 @@ The first step is to create a new project using _Machine Learning For Kids_. _Ma
 1. Click on the "**+** Add a new project" button  
     ![](Assets/FollowAlongML4K/add_new_project.png)
 1. Fill out a name for the project: "Oreo Reviews"
-1. Click the "Recognising" dropdown and select "text"
-1. Click the "Create" button  
-    ![](Assets/FollowAlongML4K/new_create.png)
+1. Click the "Project Type" dropdown and select "recognising text"
+1. Click the "Storage" dropdown and select "In your web browser"
+1. Click the "Create" button
 1. Check to make sure the project now appears in the list!  
 
 ## Part 2: Training a New Machine Learning Model
@@ -24,17 +24,15 @@ The next step is to create an actual machine learning model. This model will rec
 
 This type of learning is known as _supervised learning_ because the examples are labeled. The computer will learn from patterns in these examples, like word choice, sentence structure, and more.
 
-1. Click on the new "Oreo Reviews" project from the list  
-    ![](Assets/FollowAlongML4K/new_project_list.png)
+1. Click on the new "Oreo Reviews" project from the list
 1. Click on the "Train" button  
     ![](Assets/FollowAlongML4K/train_button.png)
 1. Click on the "**+** Add a new label" button  
     ![](Assets/FollowAlongML4K/add_new_label.png)
-1. Enter "5 star reviews" and click the "Add" button to create a "5_star_reviews" bucket
+1. Enter "5 star review"s and click the "Add" button to create a "5_star_reviews" bucket
 1. Repeat the steps above to create a "1 star reviews" bucket as well
 1. Use the "**+** Add example" button in the "5_star_reviews" bucket to add at least **six** 5 star Oreo reviews  
-    - [Copy and Paste 5 star reviews from here](https://www.amazon.com/Double-Chocolate-Sandwich-Cookies-Resealable/product-reviews/B078PH27HZ/ref=cm_cr_unknown?ie=UTF8&reviewerType=all_reviews&filterByStar=five_star&pageNumber=1)  
-    ![](Assets/FollowAlongML4K/5_star_add.png)
+    - [Copy and Paste 5 star reviews from here](https://www.amazon.com/Double-Chocolate-Sandwich-Cookies-Resealable/product-reviews/B078PH27HZ/ref=cm_cr_unknown?ie=UTF8&reviewerType=all_reviews&filterByStar=five_star&pageNumber=1)
 1. Similarly, use the "**+** Add example" button in the "1_star_review" bucket to add at least six **1 star Oreo** reviews  
     - [Copy and Paste 1 star reviews from here](https://www.amazon.com/Double-Chocolate-Sandwich-Cookies-Resealable/product-reviews/B078PH27HZ/ref=cm_cr_unknown?ie=UTF8&reviewerType=all_reviews&filterByStar=one_star&pageNumber=1)  
 1. Once each bucket is full, click the "< Back to project" link in the upper left to go back to the main project page  
@@ -44,8 +42,7 @@ This type of learning is known as _supervised learning_ because the examples are
 1. On the models page, click the "Train new machine learning model" button  
     ![](Assets/FollowAlongML4K/train_new_model.png)
 1. Wait a few minutes for the training to complete - feel free to answer the quiz questions during this time
-1. When the training is done, enter some other reviews from the [Oreo page](https://www.amazon.com/product-reviews/B078PH27HZ/) and test them out - see how the computer does at recognizing the text!  
-    ![](Assets/FollowAlongML4K/message_tests)
+1. When the training is done, enter some other reviews from the [Oreo page](https://www.amazon.com/product-reviews/B078PH27HZ/) and test them out - see how the computer does at recognizing the text!
 
 After testing the model, feel free to go back and add more examples to the "5_star_reviews" and "1_star_reviews" buckets. More data with more variation will make the model even better at recognizing the text! Try to add examples of different lengths, and make sure the total number of examples in the "5_star_reviews" and "1_star_reviews" buckets are about equal. After adding more examples, make sure to re-train the model.
 
