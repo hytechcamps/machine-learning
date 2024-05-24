@@ -43,7 +43,7 @@ Have students draw something using [AutoDraw](https://www.autodraw.com/), and in
 Introduce [AutoDraw](https://autodraw.com/), and show some of the basic features. Explain that the app uses artificial intelligence to try to guess what you're drawing. Make sure all the students can get to the drawing site through the camp homepage, and give them some time to draw.
 
 #### Submission
-After a few minutes, students should submit their auto-drawings using the [form](https://forms.office.com/r/zVdcwp9zBd) linked on the [camp homepage](BOOKREADME.md). View responses in the [spreadsheet](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EeesMp-YV8JPjRxQk2j37dEBu3rr6CRo8Rlxq8gT1fwopw?e=Q0HMJ4); make sure to filter by the current room.
+After a few minutes, students should submit their auto-drawings using the [form](https://forms.office.com/r/zVdcwp9zBd) linked on the [camp homepage](BOOKREADME.md). View responses in the [spreadsheet](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EeesMp-YV8JPjRxQk2j37dEBPEkipwEjZ8nGje1eXpEBDA?e=DM28E1); make sure to filter by the current room.
 
 #### Show and Tell
 Go through the responses, and call on each student. They should introduce themselves by sharing their name, grade, school, and drawing.
