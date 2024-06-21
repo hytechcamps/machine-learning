@@ -20,6 +20,7 @@ Check out these resources if you need some more help.
 - [PowerPoint Presentation](ttps://view.officeapps.live.com/op/embed.aspx?src=https://hytechcamps.github.io/machine-learning/ArtificiallyIntelligentApps.pptx)
 - [Follow-Along Guide](FollowAlong.md)
 - [Introduction to Machine Learning](https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0)
+- [Explorations](Explorations.md)
 
 ## MarI/O
 Just for fun, here's an example of Machine Learning in action:
