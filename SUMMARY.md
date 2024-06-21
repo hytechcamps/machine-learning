@@ -2,3 +2,4 @@
 - [Icebreaker](Icebreaker.md)
 - [Follow-Along Activity](FollowAlong.md)
 - [Challenges](Challenges.md)
+- [Explorations](Explorations.md)
